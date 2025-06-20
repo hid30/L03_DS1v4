@@ -100,4 +100,4 @@ Dari hasil analisis ditemukan bahwa attrition yang terjadi cukup tinggi mencapai
 
 ## Email dan Password Metabase
 - Email : deozaofficial@gmail.com
-- Password : bismillah123
+- Password : RwcQoPlOL7YJ66RB
